@@ -1,1 +1,1 @@
-![alt text](/DanielWongResume.pdf)
+![alt text](/DanielWongResume.png)
